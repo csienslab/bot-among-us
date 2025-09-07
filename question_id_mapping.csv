@@ -1,0 +1,100 @@
+,QuestionID,QuestionText
+0,startDate,Start Date
+1,endDate,End Date
+2,status,Response Type
+3,progress,Progress
+4,duration,Duration (in seconds)
+5,finished,Finished
+6,recordedDate,Recorded Date
+7,_recordId,Response ID
+8,distributionChannel,Distribution Channel
+9,userLanguage,User Language
+10,Q_RecaptchaScore,Q_RecaptchaScore
+11,QID74,Do you accept the terms outlined in the consent form and agree to participate in this study?
+12,QID75_TEXT,What is your Prolific ID? Please note that this response should auto-fill with the correct ID.
+13,QID5,"Please select one instant messaging service from the following list that you use frequently (more than twice a week) and have seen chatbots on. If more than one applies, choose the one you use the most. The rest of the survey will be based on your selection here."
+14,QID6,How often do you use the instant messaging service you selected in the previous question?
+15,QID81,"Which of the following are considered chatbots in group chats and are therefore within the scope of this study? (Select all that apply)
+
+This is a comprehension check. You must answer this question correctly before you can proceed."
+16,QID7,"How often do you notice chatbots in group chats, including seeing them send messages or actively searching for their existence?"
+17,QID11_TEXT,Please name 1-2 chatbots you encountered in group chats and describe them in 1-2 sentences.
+18,QID12,"How often do you interact with chatbots in group chats, including actively tagging/mentioning chatbots in your messages, chatbots replying to your messages, or chatbots reading your messages?"
+19,QID13,What types of group chats have you seen chatbots in? Select all that apply. - Selected Choice
+20,QID13_5_TEXT,What types of group chats have you seen chatbots in? Select all that apply. - Other (please specify) - Text
+21,QID14,What purposes do you use chatbots for in group chats? Select all that apply.
+22,QID78,"Please select the third option: ""Sometimes""."
+23,QID16,Have you ever noticed any chatbots in private group chats you have participated in?
+24,QID17,How often do you check for the presence of chatbots whenever you join private group chats?
+25,QID19_TEXT,Please elaborate on your answer to the previous question.
+26,QID20,When do you check for the presence of chatbots in a private group? Select all that apply.
+27,QID22,Have you ever noticed any chatbots in public group chats you have participated in?
+28,QID23,How often do you check for the presence of chatbots whenever you join public group chats?
+29,QID25_TEXT,Please elaborate on your answer to the previous question.
+30,QID26,When do you check for the presence of chatbots in a public group? Select all that apply.
+31,QID27,To what extent are you familiar with what information chatbots on [QID5-ChoiceGroup-SelectedChoices] can access in group chats?
+32,QID28,What type of messages do you believe a chatbot on [QID5-ChoiceGroup-SelectedChoices] has access to?
+33,QID29,"Following up on the previous question, what information do you believe is included with the message a chatbot has access to on [QID5-ChoiceGroup-SelectedChoices]? Select all that apply."
+34,QID30,What type of information do you believe a chatbot on [QID5-ChoiceGroup-SelectedChoices] can access about the group? Select all that apply.
+35,QID83,Chatbots from group chats with access to users’ data as checked above would raise my privacy concerns.
+36,QID76,"For this question, choose the fifth option, ""Chatbots are never helpful."""
+37,QID33,Chatbots from group chats with access to users’ data as listed above would raise my privacy concerns.
+38,QID34,I would be concerned that any personal information I share in the group chat could be collected by the chatbot and be used inappropriately.
+39,QID35,I would stop sharing some sensitive information or talking about controversial topics in group chat because of privacy concerns about chatbots.
+40,QID36,I would still use the chatbot after knowing what information it had access to.
+41,QID37_TEXT,"If you choose ""somewhat agree"" or ""strongly agree"" in the previous question, what are the reasons for continuing using the chatbot?"
+42,QID38,I think chatbots accessing more information than necessary could cause privacy issues in public group chats.
+43,QID39,I think chatbots accessing more information than necessary could cause privacy issues in private group chats.
+44,QID40,I understand how chatbot providers protect the data collected from group chats.
+45,QID41_TEXT,Do you have specific privacy concerns about chatbots in group chats? Please describe.
+46,QID43,"Ideally, what type of messages do you expect a chatbot in a group chat has access to? - Selected Choice"
+47,QID43_6_TEXT,"Ideally, what type of messages do you expect a chatbot in a group chat has access to? - Other (please specify) - Text"
+48,QID44_1,"Ideally, what specific information within a message would you expect a chatbot to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 5 being least expected to be accessible. - The content of the message itself."
+49,QID44_2,"Ideally, what specific information within a message would you expect a chatbot to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 5 being least expected to be accessible. - The message metadata, such as time sent."
+50,QID44_3,"Ideally, what specific information within a message would you expect a chatbot to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 5 being least expected to be accessible. - The sender’s username. A user has the same username in different groups."
+51,QID44_4,"Ideally, what specific information within a message would you expect a chatbot to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 5 being least expected to be accessible. - The sender’s pseudonym. A user has different pseudonyms in different groups."
+52,QID44_5,"Ideally, what specific information within a message would you expect a chatbot to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 5 being least expected to be accessible. - The sender’s metadata (other than the username), such as profile picture, gender, and email addresses."
+53,QID45_1,"Ideally, what information about the group itself would you expect a chatbot to be able to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 4 being least expected to be accessible. - The name of the group."
+54,QID45_2,"Ideally, what information about the group itself would you expect a chatbot to be able to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 4 being least expected to be accessible. - The list of group members."
+55,QID45_3,"Ideally, what information about the group itself would you expect a chatbot to be able to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 4 being least expected to be accessible. - The profile pictures of group members."
+56,QID45_4,"Ideally, what information about the group itself would you expect a chatbot to be able to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 4 being least expected to be accessible. - The roles or statuses of group members (e.g., admin, moderator)."
+57,QID79_1,"Ideally, the numbers should be in ascending order, i.e., from 1 to 5. Please sort them accordingly. - This is one."
+58,QID79_2,"Ideally, the numbers should be in ascending order, i.e., from 1 to 5. Please sort them accordingly. - This is four."
+59,QID79_3,"Ideally, the numbers should be in ascending order, i.e., from 1 to 5. Please sort them accordingly. - This is two."
+60,QID79_4,"Ideally, the numbers should be in ascending order, i.e., from 1 to 5. Please sort them accordingly. - This is five."
+61,QID79_5,"Ideally, the numbers should be in ascending order, i.e., from 1 to 5. Please sort them accordingly. - This is three."
+62,QID53,"Ideally, what type of messages do you expect Reminder has access to? - Selected Choice"
+63,QID53_6_TEXT,"Ideally, what type of messages do you expect Reminder has access to? - Other (please specify) - Text"
+64,QID54_1,"Ideally, what specific information within a message do you expect Reminder to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 5 being least expected to be accessible. - The content of the message itself."
+65,QID54_2,"Ideally, what specific information within a message do you expect Reminder to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 5 being least expected to be accessible. - The message metadata, such as time sent."
+66,QID54_3,"Ideally, what specific information within a message do you expect Reminder to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 5 being least expected to be accessible. - The sender’s username. A user has the same username in different groups."
+67,QID54_4,"Ideally, what specific information within a message do you expect Reminder to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 5 being least expected to be accessible. - The sender’s pseudonym. A user has different pseudonyms in different groups."
+68,QID54_5,"Ideally, what specific information within a message do you expect Reminder to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 5 being least expected to be accessible. - The sender’s metadata (other than the username), such as profile picture, gender, and email addresses."
+69,QID55_1,"Ideally, what information about the group itself do you expect Reminder to be able to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 4 being least expected to be accessible. - The name of the group."
+70,QID55_2,"Ideally, what information about the group itself do you expect Reminder to be able to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 4 being least expected to be accessible. - The list of group members."
+71,QID55_3,"Ideally, what information about the group itself do you expect Reminder to be able to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 4 being least expected to be accessible. - The profile pictures of group members."
+72,QID55_4,"Ideally, what information about the group itself do you expect Reminder to be able to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 4 being least expected to be accessible. - The roles or statuses of group members (e.g., admin, moderator)."
+73,QID57,"Ideally, what type of messages do you expect Moderation Helper has access to? - Selected Choice"
+74,QID57_6_TEXT,"Ideally, what type of messages do you expect Moderation Helper has access to? - Other (please specify) - Text"
+75,QID58_1,"Ideally, what specific information within a message would you expect Moderation Helper to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 5 being least expected to be accessible. - The content of the message itself."
+76,QID58_2,"Ideally, what specific information within a message would you expect Moderation Helper to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 5 being least expected to be accessible. - The message metadata, such as time sent."
+77,QID58_3,"Ideally, what specific information within a message would you expect Moderation Helper to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 5 being least expected to be accessible. - The sender’s username. A user has the same username in different groups."
+78,QID58_4,"Ideally, what specific information within a message would you expect Moderation Helper to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 5 being least expected to be accessible. - The sender’s pseudonym. A user has different pseudonyms in different groups."
+79,QID58_5,"Ideally, what specific information within a message would you expect Moderation Helper to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 5 being least expected to be accessible. - The sender’s metadata (other than the username), such as profile picture, gender, and email addresses."
+80,QID80_1,"Ideally, the following options should be in alphabetical order. Please sort them accordingly. - Artificial Intelligence"
+81,QID80_2,"Ideally, the following options should be in alphabetical order. Please sort them accordingly. - Data Analysis"
+82,QID80_3,"Ideally, the following options should be in alphabetical order. Please sort them accordingly. - Chatbots"
+83,QID80_4,"Ideally, the following options should be in alphabetical order. Please sort them accordingly. - Blockchain"
+84,QID80_5,"Ideally, the following options should be in alphabetical order. Please sort them accordingly. - Encryption"
+85,QID59_1,"Ideally, what information about the group itself would you expect Moderation Helper to be able to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 4 being least expected to be accessible. - The name of the group."
+86,QID59_2,"Ideally, what information about the group itself would you expect Moderation Helper to be able to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 4 being least expected to be accessible. - The list of group members."
+87,QID59_3,"Ideally, what information about the group itself would you expect Moderation Helper to be able to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 4 being least expected to be accessible. - The profile pictures of group members."
+88,QID59_4,"Ideally, what information about the group itself would you expect Moderation Helper to be able to have access to? Sort all options according to your level of expectation, with 1 being the most expected to be accessible, and 4 being least expected to be accessible. - The roles or statuses of group members (e.g., admin, moderator)."
+89,QID63,Age Group
+90,QID64,Gender - Selected Choice
+91,QID64_4_TEXT,Gender - Prefer to self-describe - Text
+92,QID65,Highest level of education completed
+93,QID66,Technical work experience
+94,QID67,Race and ethnicity - Selected Choice
+95,QID67_6_TEXT,Race and ethnicity - Prefer to self-describe - Text
+96,PROLIFIC_PID,PROLIFIC_PID
